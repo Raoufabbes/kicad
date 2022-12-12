@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name PYFLEX-rescue)(type Legacy)(uri C:/Users/slimb/Desktop/all-projects/kicad-Akram-PYFLEX/PYFLEX/PYFLEX-rescue.lib)(options "")(descr ""))
+  (lib (name buck_convertor-rescue)(type Legacy)(uri ${KIPRJMOD}/buck_convertor-rescue.lib)(options "")(descr ""))
+)
