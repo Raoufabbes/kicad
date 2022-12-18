@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name PY_SUPPLY-rescue)(type Legacy)(uri ${KIPRJMOD}/PY_SUPPLY-rescue.lib)(options "")(descr ""))
-)
